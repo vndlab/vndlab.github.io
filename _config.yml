@@ -24,9 +24,9 @@ navbar-links:
   Research: "research"
   Team: "team"
   Publications: "publications"
-  News:
-    - 2024: "news2024"
-    - 2023: "news2023"
+  News: "news"
+#    - 2024: "news2024"
+#    - 2023: "news2023"
   Resources: "resources"
   Contact: "contact"
 
