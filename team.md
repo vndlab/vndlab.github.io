@@ -1,1 +1,8 @@
-# page to describe VNDLab members
+---
+layout: page
+title: Team
+---
+<!-- VNDLab members -->
+
+### PI
+Soo Hyun Park, Ph.D.
