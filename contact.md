@@ -1,6 +1,6 @@
-<!-- contact page -->
-## Contact 
 ---
 layout: page
 title: Contact
 ---
+<!-- contact page -->
+## Contact 
