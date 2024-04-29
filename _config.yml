@@ -29,10 +29,6 @@ navbar-links:
     - 2023: "news2023"
   Resources: "resources"
   Contact: "contact"
-#  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
