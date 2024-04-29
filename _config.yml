@@ -20,11 +20,19 @@ author: Soo Hyun Park
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About: "aboutme"
+  Research: "research"
+  Team: "team"
+  Publications: "publications"
+  News:
+    - 2024: "news2024"
+    - 2023: "news2023"
+  Resources: "resources"
+  Contact: "contact"
+#  Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
- # Author's home: "https://deanattali.com"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
